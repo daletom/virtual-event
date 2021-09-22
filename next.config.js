@@ -16,14 +16,8 @@
 
 module.exports = {
   images: {
-    domains: [
-      'www.datocms-assets.com',
-      'a.storyblok.com',
-      'images.ctfassets.net',
-      'images.prismic.io',
-      'cdn.aglty.io',
-      'localhost' // For Strapi
-    ],
+    loader: 'imgix',
+    path: 'www.datocms-assets.com',
     imageSizes: [24, 64, 300]
   }
 };
