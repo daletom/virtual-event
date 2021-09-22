@@ -7,7 +7,7 @@
   "homepage": "https://virtual-event-starter-kit-l5ng811oc-tomdale.vercel.app/",
   "license": "Apache-2.0",
   "engines": {
-    "node": "14.16.0"
+    "node": "14.17.6"
   },
   "scripts": {
     "dev": "next",
