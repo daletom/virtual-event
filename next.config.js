@@ -17,7 +17,7 @@
 module.exports = {
   images: {
     loader: 'imgix',
-    path: 'www.datocms-assets.com',
+    path: '',
     imageSizes: [24, 64, 300]
   }
 };
