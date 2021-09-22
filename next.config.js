@@ -17,7 +17,6 @@
 module.exports = {
   images: {
     loader: 'imgix',
-    path: '',
-    imageSizes: [24, 64, 300]
+    path: ''
   }
 };
